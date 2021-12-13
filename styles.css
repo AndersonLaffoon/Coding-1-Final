@@ -1,0 +1,38 @@
+.navbar-brand img {
+    border-radius: 25px;
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:lightgray;
+    color: blue;
+}
+img{
+    border-radius: 10px;
+}
+.card-text {
+    color: darkgreen;
+}
+.card-title{
+    color: navy;
+}
+.about{
+    padding-top: 50px;
+    color: navy;
+    font-size:xx-large;
+}
+.contact{
+    text-align: center;
+    font-size: large;
+    padding-top: 50px;
+    color: navy;
+}
+body{
+    background-color: lightblue;
+}
+.cards{
+    padding-top: 50px;
+}
+nav{
+    background-color: lightgrey
+}
